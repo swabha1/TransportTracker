@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "27719014664",
+    "firebase_url": "https://bustracking-7da48.firebaseio.com",
+    "project_id": "bustracking-7da48",
+    "storage_bucket": "bustracking-7da48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27719014664:android:ff909992f35b60a8",
+        "android_client_info": {
+          "package_name": "com.mrrsoft.transporttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27719014664-moqnr35gd7agd24t1i0e3fv5affq6tqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mrrsoft.transporttracker",
+            "certificate_hash": "c1cb297e006557686e0175ac187bfc323fef57e3"
+          }
+        },
+        {
+          "client_id": "27719014664-l1un7c0r6ousknqeav4eenhtubq6rn0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8XXstVkl_WSs4As8g-Bl532wcLl-rv_M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27719014664-l1un7c0r6ousknqeav4eenhtubq6rn0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
